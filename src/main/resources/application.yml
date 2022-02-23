@@ -1,0 +1,13 @@
+datasource:
+  ## db1: MySQL
+  db1:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    jdbc-url:
+    username:
+    password:
+  ## db2: Oracle
+  db2:
+    driver-class-name: oracle.jdbc.driver.OracleDriver
+    jdbc-url:
+    username:
+    password:
